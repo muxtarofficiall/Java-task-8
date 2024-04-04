@@ -1,0 +1,15 @@
+#btn {
+    border-radius: 13%;
+    border-style: dotted;
+    background-color: aqua;
+    color: brown;
+    cursor: pointer;
+    transition: 1s ease;
+
+}
+
+#btn:hover {
+    color: black;
+    background-color: antiquewhite;
+    transform: scale(1.05);
+}
